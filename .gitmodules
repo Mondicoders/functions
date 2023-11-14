@@ -1,0 +1,3 @@
+[submodule "OpenGLEngine"]
+	path = OpenGLEngine
+	url = git@github.com:Mond1c/OpenGLEngine.git
